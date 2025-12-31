@@ -27,7 +27,7 @@ I'm a passionate developer who likes solving hard problems and shipping useful t
 - [Quizmaster](https://github.com/rajatkantinandi/quizmaster): An app to edit & create quizzes with different categories & points, share screen and host a quiz
 - [2048 Rapid Mode](https://github.com/rajatkantinandi/2048-rapid-mode): A variant of famous 2048 built with new Svelte Framework & layout with CSS grid. Now a Progressive web app.
 - [Weather App](https://github.com/rajatkantinandi/weather-app): Weather app, Using openweathermap.org & aqicn.org API, built with React & used hooks api & with custom hooks. Also a Progressive Web App.
-- [use-swipe-hook](https://www.npmjs.com/package/use-swipe-hook): A easy to use tiny npm library that provides useSwipe hook to use with React that enables swipe gestures for touch screens.
+- [use-swipe-hook](https://www.npmjs.com/package/use-swipe-hook): A easy to use tiny npm library that provides useSwipe hook to use with React that enables swipe gestures for touch screens. ![NPM Downloads](https://img.shields.io/npm/dm/use-swipe-hook)
 - **Ludo Classic iOS**: Private, work-in-progress. A Ludo game made with Swift & Swift UI with some unique features like team game, barriers/pairs, and more features similar to Indian version of the game played in real board. It will be made public once it is published on the App store.
 
 ## 📖 Currently learning
@@ -35,8 +35,9 @@ I'm a passionate developer who likes solving hard problems and shipping useful t
 - Experimenting with docker
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatkantinandi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatkantinandi&layout=compact&theme=radical)
+- ![GitHub User's stars](https://img.shields.io/github/stars/rajatkantinandi)
+- ![GitHub followers](https://img.shields.io/github/followers/rajatkantinandi)
+
 
 ## 🤝 How to work with me
 - Open to: collaborating on interesting problems or side projects, mentoring.
