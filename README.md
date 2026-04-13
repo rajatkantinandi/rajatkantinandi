@@ -8,10 +8,10 @@ I'm a passionate developer who likes solving hard problems and shipping useful t
 
 ## 🔭 What I do
 - Build reliable, maintainable web and backend systems.
-- Turn ideas into polished, user-friendly products.
+- Turn ideas/prototypes into polished, user-friendly products.
 - Make products accessible as per WCAG guidelines
 - Deploying apps to production & publish to app stores
-- Mentor others and share knowledge within the team.
+- Mentor juniors and share knowledge within the team.
 - Priotize team members time by doing code reviews as soon as possible to unblock the team member.
 
 ## 🧰 Languages & Technologies I use
@@ -21,7 +21,7 @@ I'm a passionate developer who likes solving hard problems and shipping useful t
 - Databases: MySQL, PostgreSQL, Redis, MongoDB
 - DevOps: GitHub actions, AWS EC2, Elastic Beanstalks, Networking & VPC, Serverless/Lambda, S3, Cloudfront, etc
 - Testing & Quality: Jest, Playwright, unit & integration testing
-- AI Coding tools: Cursor, Copilot, XCode, ChatGPT desktop app
+- AI Coding tools: Codex, Cursor, XCode, Gemini CLI, Claude
 
 ## ⭐ Featured projects
 - [Quizmaster](https://github.com/rajatkantinandi/quizmaster): An app to edit & create quizzes with different categories & points, share screen and host a quiz
